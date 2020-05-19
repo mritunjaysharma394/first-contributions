@@ -1886,6 +1886,7 @@
 - [Alec W](https://github.com/AlecWilk)
 - [Vikram Singh Bedi](https://github.com/singhVikram97)
 - [Carlo De Los Reyes](https://github.com/nattysplines)
+- [Ayushman](https://github.com/chetak123)
 - [Mondonville](https://github.com/mondonville)
 - [abuznego](https://github.com/abuznego23)
 - [romanvx](https://github.com/romanvx)
